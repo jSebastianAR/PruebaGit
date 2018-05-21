@@ -5,8 +5,8 @@ int main()
 {
 	int x;
 
-	for(x=0; x<10; x++)
+	for(x=0; x<100; x++)
 	{
-		printf("numero:"x);
+		printf("El numero es:"x);
 	}
 }
