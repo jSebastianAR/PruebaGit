@@ -5,7 +5,7 @@ int main()
 {
 	int x;
 
-	while(x<10)
+	while(x<100)
 	{
 		printf("numero:"x);
 		x++;
